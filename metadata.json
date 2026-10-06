@@ -1,0 +1,6 @@
+{
+  "name": "VoxGemini - Studio Text-to-Speech",
+  "description": "High-fidelity Text-to-Speech and voice direction studio powered by gemini-3.8-flash-tts and gemini-3.8-flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
